@@ -35,3 +35,36 @@ This is for Homework1 - Multi Author class, proceed with caution.
 - Zakia
 ## License
 MIT
+
+# Homework 1 Assignment
+
+### these are myt favorite movies
+- Lagaan: Once Upon a Time in India
+- Rang De Basanti
+- 3 Idiots
+- Taare Zameen Par
+
+### these are my favourate animals
+1. Munchkin Cats.
+2. Red Panda.
+3. Baby Elephant.
+
+### my favorate website
+[wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites)
+
+![a fender telecaster](images/chibi.jpg)# ${1:cute chibi image}
+TODO: Write a project description
+## Installation
+no installation required
+## Usage
+open in a browser of your choice
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+## Credits
+Zakia sultana
+## License
+see lincense file
