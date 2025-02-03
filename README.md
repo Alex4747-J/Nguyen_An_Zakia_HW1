@@ -52,7 +52,7 @@ MIT
 ### my favorate website
 [wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites)
 
-![a fender telecaster](images/chibi.jpg)# ${1:cute chibi image}
+![a fender telecaster](images/chibi.jpg)# ${1:cute chibi}
 TODO: Write a project description
 ## Installation
 no installation required
