@@ -68,3 +68,21 @@ open in a browser of your choice
 Zakia sultana
 ## License
 see lincense file
+
+# Homework Assignment 1
+Hello everyonw, welcom to our team first coop repo. My name is
+## Ngoc Nhu An Do (Andrea)
+### My picture
+![In my favorite Lolita](images/1201.JPG) 
+### Little fun facts about me
+* I am afraid of dogs and have Thalassophobia.
+* I can't eat raw tomato.
+* I hate EA games, especially Dragon Age: Veilguard.
+### My dream company I want to work in the future
+* Universal
+* Vogue House.
+* DreamWorks.
+### My life motto
+* Work like a slave but spend money like a queen.
+* If you easily satisfied with every results your designs achieved whether is good or bad through all your career and you do not improve yourself then you are not a dedicated designer.
+--- 
