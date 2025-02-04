@@ -73,7 +73,7 @@ see lincense file
 Hello everyonw, welcom to our team first coop repo. My name is
 ## Ngoc Nhu An Do (Andrea)
 ### My picture
-![In my favorite Lolita](images/1201.JPG) 
+![In my favorite Lolita](images/christmas.jpg)
 ### Little fun facts about me
 * I am afraid of dogs and have Thalassophobia.
 * I can't eat raw tomato.
