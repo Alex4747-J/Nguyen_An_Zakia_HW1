@@ -21,7 +21,7 @@ This is our coop repo for Homework1 -  Multi Authoring class.
 <!-- This is the last part, do not write anything below this line-->
 
 # Homework 1 Assignment
-
+## Zakia Sultana
 ### these are my favorite movies
 - Lagaan: Once Upon a Time in India
 - Rang De Basanti
@@ -69,6 +69,6 @@ This is for Homework1 - Multi Author class, proceed with caution.
 ## Credits
 - Anh Phuong Nguyen
 - An Ngoc Nhu Do
-- Zakia
+- Zakia Sultana
 ## License
 MIT
