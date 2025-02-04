@@ -19,6 +19,43 @@ This is our coop repo for Homework1 -  Multi Authoring class.
 
 
 <!-- This is the last part, do not write anything below this line-->
+
+# Homework 1 Assignment
+
+### these are my favorite movies
+- Lagaan: Once Upon a Time in India
+- Rang De Basanti
+- 3 Idiots
+- Taare Zameen Par
+
+### these are my favourate animals
+1. Munchkin Cats.
+2. Red Panda.
+3. Baby Elephant.
+
+### my favorate website
+[wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites)
+
+![just am chibi image](images/chibi.jpg)
+--- 
+
+# Homework Assignment 1
+Hello everyone, welcom to our team first coop repo. My name is
+## Ngoc Nhu An Do (Andrea)
+### My picture
+![In my favorite Lolita](images/christmas.jpg)
+### Little fun facts about me
+* I am afraid of dogs and have Thalassophobia.
+* I can't eat raw tomato.
+* I hate EA games, especially Dragon Age: Veilguard.
+### My dream company I want to work in the future
+* Universal
+* Vogue House.
+* DreamWorks.
+### My life motto
+* Work like a slave but spend money like a queen.
+* If you easily satisfied with every results your designs achieved whether is good or bad through all your career and you do not improve yourself then you are not a dedicated designer.
+--- 
 ## Installation
 There is no installation process, you can just use it right away.
 ## Usage
@@ -35,54 +72,3 @@ This is for Homework1 - Multi Author class, proceed with caution.
 - Zakia
 ## License
 MIT
-
-# Homework 1 Assignment
-
-### these are myt favorite movies
-- Lagaan: Once Upon a Time in India
-- Rang De Basanti
-- 3 Idiots
-- Taare Zameen Par
-
-### these are my favourate animals
-1. Munchkin Cats.
-2. Red Panda.
-3. Baby Elephant.
-
-### my favorate website
-[wikipedia](https://en.wikipedia.org/wiki/List_of_most-visited_websites)
-
-![a fender telecaster](images/chibi.jpg)# ${1:cute chibi}
-TODO: Write a project description
-## Installation
-no installation required
-## Usage
-open in a browser of your choice
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## Credits
-Zakia sultana
-## License
-see lincense file
-
-# Homework Assignment 1
-Hello everyonw, welcom to our team first coop repo. My name is
-## Ngoc Nhu An Do (Andrea)
-### My picture
-![In my favorite Lolita](images/christmas.jpg)
-### Little fun facts about me
-* I am afraid of dogs and have Thalassophobia.
-* I can't eat raw tomato.
-* I hate EA games, especially Dragon Age: Veilguard.
-### My dream company I want to work in the future
-* Universal
-* Vogue House.
-* DreamWorks.
-### My life motto
-* Work like a slave but spend money like a queen.
-* If you easily satisfied with every results your designs achieved whether is good or bad through all your career and you do not improve yourself then you are not a dedicated designer.
---- 
